@@ -8,6 +8,5 @@ public class MainClass {
 
         // kuwrgfliqgerliaugqgiuegeiu   34LWUFHQIUO
         //WAERLUFHOF/
-        /SRKEGYIO34UWkuuuui
     }
 }
